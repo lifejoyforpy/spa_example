@@ -1,0 +1,5 @@
+E:\SPA\StaffManager\StaffMange.Models\bin\Debug\StaffMange.Models.dll
+E:\SPA\StaffManager\StaffMange.Models\bin\Debug\StaffMange.Models.pdb
+E:\SPA\StaffManager\StaffMange.Models\obj\Debug\StaffMange.Models.csproj.CoreCompileInputs.cache
+E:\SPA\StaffManager\StaffMange.Models\obj\Debug\StaffMange.Models.dll
+E:\SPA\StaffManager\StaffMange.Models\obj\Debug\StaffMange.Models.pdb

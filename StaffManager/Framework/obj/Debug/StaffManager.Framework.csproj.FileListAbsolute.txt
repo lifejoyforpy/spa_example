@@ -1,0 +1,14 @@
+E:\SPA\StaffManager\Framework\bin\Debug\StaffManager.Framework.dll.config
+E:\SPA\StaffManager\Framework\bin\Debug\StaffManager.Framework.dll
+E:\SPA\StaffManager\Framework\bin\Debug\StaffManager.Framework.pdb
+E:\SPA\StaffManager\Framework\bin\Debug\Dapper.dll
+E:\SPA\StaffManager\Framework\bin\Debug\Google.Protobuf.dll
+E:\SPA\StaffManager\Framework\bin\Debug\MySql.Data.dll
+E:\SPA\StaffManager\Framework\bin\Debug\Dapper.xml
+E:\SPA\StaffManager\Framework\bin\Debug\Google.Protobuf.xml
+E:\SPA\StaffManager\Framework\bin\Debug\MySql.Data.xml
+E:\SPA\StaffManager\Framework\obj\Debug\StaffManager.Framework.csproj.CoreCompileInputs.cache
+E:\SPA\StaffManager\Framework\obj\Debug\StaffManager.Framework.csproj.CopyComplete
+E:\SPA\StaffManager\Framework\obj\Debug\StaffManager.Framework.dll
+E:\SPA\StaffManager\Framework\obj\Debug\StaffManager.Framework.pdb
+E:\SPA\StaffManager\Framework\obj\Debug\StaffManager.Framework.csprojResolveAssemblyReference.cache

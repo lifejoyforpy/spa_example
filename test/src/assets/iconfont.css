@@ -1,0 +1,28 @@
+
+@font-face {
+  font-family: 'iconfont';
+  src: url('./assets/fonts/iconfont.eot');
+  src: url('./assets/fonts/iconfont.eot?#iefix') format('embedded-opentype'),
+  url('./assets/fonts/iconfont.woff') format('woff'),
+  url('./assets/fonts/iconfont.ttf') format('truetype'),
+  url('./assets/fonts/iconfont.svg#iconfont') format('svg');
+}
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:70px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-gongzuoshangban:before { content: "\e602"; }
+
+.icon-gangweiguanli:before { content: "\e63a"; }
+
+.icon-denglu:before { content: "\e613"; }
+
+.icon-yonghu:before { content: "\e652"; }
+
+.icon-denglu1:before { content: "\e62c"; }
+
+.icon-mima:before { content: "\e626"; }

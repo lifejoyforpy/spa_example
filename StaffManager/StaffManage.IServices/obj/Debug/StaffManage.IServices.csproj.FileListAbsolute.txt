@@ -1,0 +1,9 @@
+E:\SPA\StaffManager\StaffManage.IServices\bin\Debug\StaffManage.IServices.dll
+E:\SPA\StaffManager\StaffManage.IServices\bin\Debug\StaffManage.IServices.pdb
+E:\SPA\StaffManager\StaffManage.IServices\bin\Debug\StaffMange.Models.dll
+E:\SPA\StaffManager\StaffManage.IServices\bin\Debug\StaffMange.Models.pdb
+E:\SPA\StaffManager\StaffManage.IServices\obj\Debug\StaffManage.IServices.csprojResolveAssemblyReference.cache
+E:\SPA\StaffManager\StaffManage.IServices\obj\Debug\StaffManage.IServices.csproj.CoreCompileInputs.cache
+E:\SPA\StaffManager\StaffManage.IServices\obj\Debug\StaffManage.IServices.csproj.CopyComplete
+E:\SPA\StaffManager\StaffManage.IServices\obj\Debug\StaffManage.IServices.dll
+E:\SPA\StaffManager\StaffManage.IServices\obj\Debug\StaffManage.IServices.pdb

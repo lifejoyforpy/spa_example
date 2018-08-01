@@ -1,0 +1,14 @@
+E:\SPA\StaffManager\Framework\bin\Release\StaffManager.Framework.dll.config
+E:\SPA\StaffManager\Framework\bin\Release\StaffManager.Framework.dll
+E:\SPA\StaffManager\Framework\bin\Release\StaffManager.Framework.pdb
+E:\SPA\StaffManager\Framework\bin\Release\Dapper.dll
+E:\SPA\StaffManager\Framework\bin\Release\MySql.Data.dll
+E:\SPA\StaffManager\Framework\bin\Release\Dapper.xml
+E:\SPA\StaffManager\Framework\bin\Release\MySql.Data.xml
+E:\SPA\StaffManager\Framework\obj\Release\StaffManager.Framework.csprojResolveAssemblyReference.cache
+E:\SPA\StaffManager\Framework\obj\Release\StaffManager.Framework.csproj.CoreCompileInputs.cache
+E:\SPA\StaffManager\Framework\obj\Release\StaffManager.Framework.csproj.CopyComplete
+E:\SPA\StaffManager\Framework\obj\Release\StaffManager.Framework.dll
+E:\SPA\StaffManager\Framework\obj\Release\StaffManager.Framework.pdb
+E:\SPA\StaffManager\Framework\bin\Release\Google.Protobuf.dll
+E:\SPA\StaffManager\Framework\bin\Release\Google.Protobuf.xml

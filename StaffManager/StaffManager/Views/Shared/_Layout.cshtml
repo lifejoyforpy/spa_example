@@ -1,0 +1,27 @@
+﻿
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <!--设置页面的视口宽度-->
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+    <!--导入页面所需要的MUI的CSS文件-->
+    <link href="~/Content/mui.min.css" rel="stylesheet" />
+
+</head>
+
+<body class="mui-android mui" >
+    <header class="mui-bar mui-bar-nav" >
+
+    </header>
+    @RenderBody()
+    <!--导入页面所需要的MUI的JS文件-->
+    <script src="~/Scripts/mui.min.js"></script>
+    <script type="text/javascript">
+        // MUI页面初始化函数
+        mui.init()
+    </script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

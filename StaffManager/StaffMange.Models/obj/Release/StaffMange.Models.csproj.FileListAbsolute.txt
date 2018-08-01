@@ -1,0 +1,6 @@
+E:\SPA\StaffManager\StaffMange.Models\bin\Release\StaffMange.Models.dll
+E:\SPA\StaffManager\StaffMange.Models\bin\Release\StaffMange.Models.pdb
+E:\SPA\StaffManager\StaffMange.Models\obj\Release\StaffMange.Models.csproj.CoreCompileInputs.cache
+E:\SPA\StaffManager\StaffMange.Models\obj\Release\StaffMange.Models.dll
+E:\SPA\StaffManager\StaffMange.Models\obj\Release\StaffMange.Models.pdb
+E:\SPA\StaffManager\StaffMange.Models\obj\Release\StaffMange.Models.csprojResolveAssemblyReference.cache
